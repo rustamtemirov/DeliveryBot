@@ -1,0 +1,71 @@
+1)	Savatga qo'shish
+2)	Ortga
+3)	Maxsulotni o'chirish
+4)	Maxsulotni qo'shish
+5)	Kategoriyani qo'shish
+6)	Kategoriyani o'chirish
+7)	Mahsulot topilmadi
+8)	Narx
+9)	Bekor qilish
+10)	Bekor qilindi
+11)	Tayyor
+12)	Buyurtma yuborildi
+13)	Savat
+14)	Buyurtmani rasmiylashtirish
+15)	Fikr qoldirish
+16)	Katalog
+17)	Kategoriyani tanlang
+18)	Raqam yuborish
+19)	Telefon raqamingizni yuboring
+20)	Naqd
+21)	Karta
+22)	To'lov qilish yo'lini tanlang
+23)	Jami
+24)	To'lov usuli
+25)	Telefon raqami
+26)	Sizning buyurtmangiz
+27)	Manzil
+28)	O'rnashgan joy yuborildi
+29)	Tasdiqlayman
+30)	Foydalanuvchi [{}](tg://user?id={}) buyurtma qildi\n\n{}
+31)	Mahalliy joylashuv yuborildi
+32)	Sizning buyurtmangiz ishlovga yuborildi
+33)	Hozir sizga operatorimiz qo'ng'iroq qiladi
+34)	Buyurtmani tasdiqlash
+35)	Yetkazib berish vaqti 40 daqiqa
+36)	Olib ketish
+37)	Buyurtmangiz 40 daqiqada tayyor bo'ladi
+38)	Rahmat! Sizning buyurtmangizni tayyorlash boshlandi
+39)	Buyurtma uchun minnatdorchilik bildiramiz
+40)	Kategoriyani tanlang
+41)	Miqdorni tanlang yoki kiriting
+42)	Savatga qo'shildi. Yana biror narsa istaysizmi?
+43)	Sizning savatingiz bo'sh
+44)	Sizning savatingiz
+45)	Tozalash
+46)	Sizning savatingiz bo'sh, buyurtma uchun biron nima tanlang
+47)	Joylashuvni yuborish
+48)	Manzilni yuboring yoki joylashuvni ilova qiling
+49)	Buyurtmaga tushuvchi SMS xatni yuboring. /n/n Bekor qilish uchun «never qilish»ni bosing. Yuborish uchun  «Tayyor» tugmasini bosing
+50)	Operatsiyani tanlang
+51)	Kategoriyaning nomini kiriting.  /n/n Bekor qilish uchun «bekor qilish»tugmasini bosing
+52)	Ha
+53)	Yoq
+54)	Siz chindan kategoriyani o'chirishni istaysizmi?
+55)	Siz chindan mahsulotni o'chirishni istaysizmi?
+56)	Mahsulot nomini kiriting. /n/n Bekor qilish uchun «bekor qilish » tugmasini bosing
+57)	Tafsir yozing/n/n Bekor qilish uchun  «bekor qilish » tugmasini bosing
+58)	Tafsir 120 belgidan uzun bo'lmasligi kerak
+59)	Narxni kiriting. /n/n Bekor qilish uchun  «bekor qilish » tugmasini bosing
+60)	Sonni kiriting
+61)	Mahsulot rasmiga manbaa (link) yuboring. /n/n Bekor qilish uchun «bekor qilish » tugmasini bosing
+62)	Kategoriya topilmadi
+63)	Kategoriya yoki mahsulotni kiriting
+64)	Fikr-mulohaza matnini kiriting. Bekor qilish uchun «Ortga» tugmasini bosing
+65)	Mulohaza yuborildi
+66)	Javob yuborish
+67)	 Fikr-mulohaza uchun rahmat!
+68)	Javob matnini kiriting
+69)	Yordam xizmatidan javob keldi
+70)	Javob yuborildi.
+71) E'lon

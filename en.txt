@@ -1,0 +1,71 @@
+1.	Add to the basket
+2.	back(wards)
+3.	Delete/ remove a product
+4.	Add a product
+5.	Add the category
+6.	Delete the category
+7.	Product is not found
+8.	Cost
+9.	Cancellation
+10.	Cancelled
+11.	Ready
+12.	Delivery has sent
+13.	Basket
+14.	Arrange an order/ make an order
+15.	Leave a comment/ feedback
+16.	Catalogue
+17.	Select a category
+18.	Sending a contact number
+19.	Send us your  phone number
+20.	Cash
+21.	Credit/ debit card
+22.	Choose a payment method
+23.	Overall
+24.	Method of payment
+25.	Telephone number
+26.	Your order
+27.	Address
+28.	Sent to location.
+29.	I confirm.
+30.	User [{}](tg://user?id={}) made an order\n\n{}
+31.	Location is sent.
+32.	Your order is transmitted to processing.
+33.	Our operator will call you in a moment.
+34.	Confirm the order.
+35.	Delivery will last 40 minutes.
+36.	Carrying out
+37.	Your order will be ready in 40 minutes.
+38.	Thank you😊 we started to prepare your order.
+39.	Thanks for the order.
+40.	Select a subdivision.
+41.	Choose or write down a quantity
+42.	Added to the basket, would you like something else?
+43.	Your basket is empty
+44.	Your basket
+45.	Clean
+46.	Your basket is empty, choose something for order.
+47.	Forward the location.
+48.	Write an address or post a location.
+49.	Send a message which will be forwarded for distribution. For cancellation press ' cancel. Press ' ready' for delivery.
+50.	Choose an operation
+51.	Choose the name of category . For cancellation press ' cancel'
+52.	YES
+53.	 NO
+54.	Are you  really sure to delete the category?
+55.	Do you really want to delete a product?
+56.	Write down the name of the product. For cancellation press ' cancel'
+57.	Write down a description. For cancellation press ' cancel'
+58.	Description should contain no more than 120 symbols.
+59.	Write down  a price. For cancellation press ' cancel'
+60.	Write the number
+61.	Send a link of the photo. For cancellation press ' cancel'
+62.	Category is not found
+63.	Choose a category or product
+64.	Write a text of feedback. For cancellation press 'back'
+65.	Feedback is sent
+66.	Send a feedback
+67.	Thank you for your feedback
+68.	Write down a response
+69.	Received the response from service of support.
+70.	Reply is sent
+71. Announce
