@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4db398a-6889-493e-981b-f8c34a2fcd2f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,45 +16,6 @@
         <option value="Python Script" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>item_p</find>
-      <find>item_keygen</find>
-      <find>Ваша</find>
-      <find>корзина</find>
-      <find>Markup(</find>
-      <find>start_cata</find>
-      <find>keygen(</find>
-      <find>cat_'</find>
-      <find>add_cat_'</find>
-      <find>add_</find>
-      <find>cat_</find>
-      <find>item_k</find>
-      <find>Каталог</find>
-      <find>catalog</find>
-      <find>Назад</find>
-      <find>Корзина</find>
-      <find>Оформить заказ</find>
-      <find>next</find>
-      <find>get_user</find>
-      <find>locat</find>
-      <find>Подтвер</find>
-      <find>phone</find>
-      <find>Стоимсоть</find>
-      <find>Оформить</find>
-      <find>len</find>
-      <find>keygen</find>
-      <find>'start</find>
-      <find>an_sta</find>
-      <find>'an</find>
-      <find>Готово</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>📥 Корзина</replace>
-      <replace>🚖 Оформить заказ</replace>
-      <replace>Стоимость</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
