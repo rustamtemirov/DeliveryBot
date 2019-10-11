@@ -402,6 +402,8 @@ def start(msg):
     key = types.ReplyKeyboardMarkup(row_width=1, resize_keyboard=True)
     key.add(types.KeyboardButton('Русский'), types.KeyboardButton('English'), types.KeyboardButton("O'zbek"))
     bot.send_message(msg.chat.id, 'Выберите язык | Select language | Tilni tanlang', reply_markup=key)
+    bot.send_message(msg.chat.id, msg.from_user.id)
+
 
 
 @bot.message_handler(regexp="Русский|English|O'zbek")
