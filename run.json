@@ -1,0 +1,10 @@
+{
+    "apps": [
+          {
+            "name" : "run",
+            "script" : "new_bot.py",
+            "exec_interpreter": "python"
+          }
+
+      ]
+  }
