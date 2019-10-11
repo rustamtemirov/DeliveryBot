@@ -3,7 +3,7 @@
           {
             "name" : "run",
             "script" : "new_bot.py",
-            "exec_interpreter": "python"
+            "exec_interpreter": "python3"
           }
 
       ]
