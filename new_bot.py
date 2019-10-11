@@ -1,3 +1,5 @@
+#!/usr/local/bin/python
+# -*- coding: utf-8 -*-
 from telebot import TeleBot, types
 from databaser import Databaser as db
 from locales import locales
