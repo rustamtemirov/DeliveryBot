@@ -825,10 +825,17 @@ def chan_post(msg):
 
 
 if __name__ == '__main__':
-    db().com()
-    cats = db().get_categories(0)
-    for c in cats:
-        categories[c[1]] = c[0]
-    for a in config.admin_id:
-        status[a] = ''
-    bot.polling(none_stop=True, timeout=7200)
+    try:
+        db().com()
+        cats = db().get_categories(0)
+        for c in cats:
+            categories[c[1]] = c[0]
+        for a in config.admin_id:
+            status[a] = ''
+        bot.polling(none_stop=True, timeout=7200)
+    except:
+        f = open("log.log", "w")
+        f.write(sys.exc_info()[0])
+
+
+
