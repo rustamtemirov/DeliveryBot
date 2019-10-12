@@ -828,7 +828,6 @@ def chan_post(msg):
 
 
 if __name__ == '__main__':
-    try:
         db().com()
         cats = db().get_categories(0)
         for c in cats:
@@ -836,9 +835,7 @@ if __name__ == '__main__':
         for a in config.admin_id:
             status[a] = ''
         bot.polling(none_stop=True, timeout=7200)
-    except:
-        f = open("log.log", "w")
-        f.write(sys.exc_info()[0])
+
 
 
 
